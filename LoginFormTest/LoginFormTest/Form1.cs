@@ -38,9 +38,10 @@ namespace LoginFormTest
             //7.If there is 1 element (a match has been found), allow access
             if(dtbl.Rows.Count == 1)
             {
-                Form2 f2 = new Form2();
+                Form2 frm2 = new Form2();
                 this.Hide();
-                f2.Show();
+                frm2.ShowDialog();
+                Close();
             }
             //If incorrect, don't allow access
             else
