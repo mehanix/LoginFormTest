@@ -1,0 +1,10 @@
+c:\users\nix\documents\visual studio 2015\Projects\LoginFormTest\LoginFormTest\bin\Debug\LoginFormTest.exe.config
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\bin\Debug\LoginFormTest.exe
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\bin\Debug\LoginFormTest.pdb
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.csprojResolveAssemblyReference.cache
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.Form1.resources
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.Properties.Resources.resources
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.csproj.GenerateResource.Cache
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.exe
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.pdb
+C:\Users\Nix\Documents\Visual Studio 2015\Projects\LoginFormTest\LoginFormTest\obj\Debug\LoginFormTest.Form2.resources
